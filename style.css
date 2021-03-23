@@ -1,0 +1,43 @@
+body{
+text-align:center;
+}
+
+.userInput{
+    border: 2px solid blue;
+    width: 85%;
+    height: 25px;
+    font-size: 15px;
+    display: inline-block;
+}
+.btn{
+  background-color: #02d802;
+  color:white;
+  font-size: 15px;
+  width:8%;
+  height:31px;
+  display: inline-block;
+}
+.btn value{
+  color:grey;
+}
+.btn:hover{
+  background-color: green;
+}
+
+.container{
+  margin: 20px 3% 0 3%;
+  justify-content: center;
+}
+
+.container-image{
+  display: inline-block;
+  /* width:60%; */
+  height: auto;
+  /* position: absolute; */
+
+}
+
+.showGif{
+  margin-left: 10px;
+  margin-right: 10px;
+}
